@@ -1,3 +1,3 @@
 # Staatsbeamtenregelwerk
 
--[x] test
+-[x]test
